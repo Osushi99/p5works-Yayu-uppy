@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(128,128);
+  createCanvas(140,140);
 }
 
 function draw() {
@@ -12,7 +12,7 @@ function draw() {
   fill(255);
   textSize(32);
   textFont("serif");
-  text("17", 68, 100);
+  text("18", 70, 100);
 }
 
 // triangle(12,120,116,120,116,10);
